@@ -1,0 +1,13 @@
+{
+  "name": "agentatlas-mcp",
+  "version": "1.1.0",
+  "description": "AgentAtlas MCP server: sourced setup guides for Claude Code, Codex, Cursor, Gemini CLI and Copilot, official MCP server install commands, plugins, evals and coding agent pricing.",
+  "type": "module",
+  "bin": { "agentatlas-mcp": "index.mjs" },
+  "files": ["index.mjs"],
+  "engines": { "node": ">=18" },
+  "license": "MIT",
+  "homepage": "https://agentatlas.dev/mcp-server",
+  "repository": { "type": "git", "url": "https://github.com/zachhhhh/agentatlas-mcp" },
+  "mcpName": "io.github.zachhhhh/agentatlas"
+}
