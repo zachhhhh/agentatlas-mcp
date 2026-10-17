@@ -1,5 +1,7 @@
 # AgentAtlas MCP server
 
+[![zachhhhh/agentatlas-mcp MCP server](https://glama.ai/mcp/servers/zachhhhh/agentatlas-mcp/badges/score.svg)](https://glama.ai/mcp/servers/zachhhhh/agentatlas-mcp)
+
 Ask your coding agent how to set up coding agents. The AgentAtlas MCP server gives Claude Code, Codex, Cursor, Gemini CLI, VS Code and any other MCP client read-only access to [AgentAtlas](https://agentatlas.dev), the verified map of the agent stack:
 
 - Setup guides for Claude Code, Codex, Cursor, Gemini CLI, GitHub Copilot, OpenCode, Cline, Kiro, Zed and more (permissions, sandboxing, hooks, subagents, MCP config), each with links to the vendor docs it was checked against
